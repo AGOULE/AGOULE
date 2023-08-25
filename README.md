@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AGOULE
 - 👀 I’m interested in data scientist...
 - 🌱 I’m currently learning  scraping...
-- 💞️ I’m looking to collaborate any body
+- 💞️ I’m looking to collaborate everyone
 - 📫 +229 66635756
 
 <!---
